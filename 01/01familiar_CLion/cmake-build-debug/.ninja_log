@@ -1,0 +1,4 @@
+# ninja log v5
+0	136	6921864009217537	build.ninja	91f67d387e01bf8d
+90	185	6921830253794759	01_CLion.exe	f3adfae8c60999f6
+2	89	6921830252875565	CMakeFiles/01_CLion.dir/main.c.obj	ddbfc57c91d50715
