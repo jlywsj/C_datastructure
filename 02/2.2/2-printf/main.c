@@ -13,3 +13,4 @@ int main() {
     printf("Number=%4d, Score=%5.2f\n",i,f);
     return 0;
 }
+
